@@ -24,6 +24,6 @@ A clean and modular Python implementation for managing sales orders using a loca
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/sqlite-sales-manager.git](https://github.com/your-username/sqlite-sales-manager.git)
+   git clone https://github.com/LeonardoCides/py-order-persistence-lite
    python main.py
 ```
