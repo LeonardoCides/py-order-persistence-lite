@@ -25,4 +25,21 @@ A clean and modular Python implementation for managing sales orders using a loca
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/sqlite-sales-manager.git](https://github.com/your-username/sqlite-sales-manager.git)
+   python main.py
 ```
+
+2. **Verify:**
+`A file named vendas.db will be created in your root folder. You can use a tool like DB Browser for SQLite to view the data.`
+
+---
+
+### 💡 Próximos passos para o seu "Daily Commit":
+
+Para manter a sequência de commits nos próximos dias usando esse mesmo projeto, você pode:
+
+1.  **Dia 2:** Adicionar uma função `buscar_pedido(id)` para ler dados.
+2.  **Dia 3:** Adicionar uma função `atualizar_status(id, novo_status)` para dar o "update".
+3.  **Dia 4:** Criar uma função `deletar_pedido(id)`.
+4.  **Dia 5:** Refatorar o código para usar uma **Classe** (Programação Orientada a Objetos).
+
+**Quer que eu prepare o arquivo `.gitignore` para garantir que o arquivo `vendas.db` não seja enviado por erro e "suje" seu repositório?**
